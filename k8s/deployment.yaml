@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo
-        image: your-dockerhub-username/devops-demo:latest
+        image: praveenchitrada/argocd-demo:latest
         ports:
         - containerPort: 3000
